@@ -10,7 +10,7 @@ clear
 mpv /$HOME/TermuxSelamatDatang/ay.mp3
 toilet -F metal "Welcome"
 echo -e "__________________________________________________________" | lolcat
-termimage /$HOME/TermuxSelamatDatang/Welcome.png
+termimage /$HOME/TermuxSelamatDatang/20240325_063027.png -s 130x130
 echo -e "__________________________________________________________" | lolcat
 screenfetch -A Chakra
 date | lolcat
