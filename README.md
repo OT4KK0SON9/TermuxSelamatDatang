@@ -1,5 +1,4 @@
-# TERMUX-WELCOME PROJECT BY SNEHITH CHOWDARY
-### Beautify your Termux App With a warm welcome
+# TERMUXSelamatDatang PROJECT BY Otak Kosong
 
 ## [+] Installation & Usage
 ```
@@ -9,9 +8,9 @@ apt install git -y
 
 pkg install mpv -y
 
-git clone https://github.com/itzr00tbyte/TERMUX-WELCOME
+git clone https://github.com/OT4KK0SON9/TermuxSelamatDatang
 
-cd TERMUX-WELCOME
+cd TermuxSelamatDatang
 
 chmod +x *
 
@@ -22,9 +21,9 @@ exit
 
 ## [+]How to remove 
 ```
-cd TERMUX-WELCOME
+cd TermuxSelamatDatang
 
-bash rvt.sh
+bash rm.sh
 ```
 <p align="center">
 <img src="https://telegra.ph/file/b5c0c1aeb6c4a54b1f5f4.jpg" alt="Script Kiddie">
