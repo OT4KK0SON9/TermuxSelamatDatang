@@ -1,6 +1,7 @@
-# TERMUXSelamatDatang PROJECT BY Otak Kosong
+# TERMUXSelamatDatang 
+# PROJECT BY Otak Kosong
 
-## [+] Installation & Usage
+## [+] Unduh Dan Penggunaan 
 ```
 apt update
 
@@ -19,18 +20,16 @@ sh install.sh
 exit
 ```
 
-## [+]How to remove 
+## [+]Cara Menghapus
 ```
 cd TermuxSelamatDatang
 
 bash rm.sh
 ```
 <p align="center">
-<img src="https://telegra.ph/file/b5c0c1aeb6c4a54b1f5f4.jpg" alt="Script Kiddie">
+<img src="https://i.pinimg.com/736x/be/80/ec/be80ec2748bc08ea4657f92d3fc5eefd.jpg" alt="Script Kiddie">
 
     
-## [+] Find Me on :
-#### Telegram :https://t.me/certified_youtuber
-#### Join cahnnel and Show your love :https://t.me/scriptKiddiesvR
-##### Youtube channel :https://www.youtube.com/c/scriptkiddietelugu
+## [+] Cari Saya Di :
+##### Youtube channel :https://www.youtube.com/@OTAKNYAILAN9
 
