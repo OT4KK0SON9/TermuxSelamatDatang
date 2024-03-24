@@ -8,6 +8,7 @@ termimage /$HOME/TermuxSelamatDatang/X.png
 sleep 4.0s
 clear
 mpv /$HOME/TermuxSelamatDatang/ay.mp3
+clear
 toilet -F metal "Welcome"
 echo -e "__________________________________________________________" | lolcat
 termimage /$HOME/TermuxSelamatDatang/20240325_063027.png -s 130x130
