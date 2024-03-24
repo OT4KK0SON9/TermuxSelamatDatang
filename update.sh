@@ -14,8 +14,8 @@ printf "\n \e[1;92mUpdating \e[1;94mTermuxWelcome\e[1;92m ...\n\n"
 sleep 1.5
 cd ..
 rm -rf TERMUX-WELCOME
-git clone https://github.com/itzR00TBYTE/TERMUX-WELCOME
-cd TERMUX-WELCOME
+git clone https://github.com/OT4KK0SON9/TermuxSelamatDatang
+cd TermuxSelamatDatang
 printf "\n\e[1;92mRestarting ...\n\e[0m"
 bash install.sh
 clear
