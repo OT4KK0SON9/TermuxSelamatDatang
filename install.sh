@@ -12,6 +12,8 @@ pkg install screenfetch
 apt upgrade
 pip install lolcat
 pkg install mpv -y
+pkg install toilet
+pkg install termimage
 pkg install figlet -y
 cp bash.bashrc $PREFIX/etc
 clear
