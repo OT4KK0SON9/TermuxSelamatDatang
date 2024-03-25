@@ -13,7 +13,7 @@ clear
 sleep 2.0s
 toilet -F metal "Welcome"
 echo -e "__________________________________________________________" | lolcat
-termimage 20240325_063027.png -s 130x130
+termimage 20240325_063027.png -s 99x99
 echo -e "__________________________________________________________" | lolcat
 cd
 screenfetch -A Chakra
