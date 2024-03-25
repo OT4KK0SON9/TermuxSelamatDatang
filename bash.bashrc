@@ -1,7 +1,7 @@
 command_not_found_handle() {
 		/data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
 	}
-PS1='\[\e[1;31m\]\w\[\e[1;37m\] \[\e[1;36m\]\u@\h\ \ \ \d\[\e[0;37m\] '
+PS1='\[\e[1;31m\]\w\[\e[1;37m\] \[\e[1;36m\]\u@\h\ \ \ \d\\>\[\e[0;37m\] '
 cd TermuxSelamatDatang
 mpv wlcome.mp3
 clear
