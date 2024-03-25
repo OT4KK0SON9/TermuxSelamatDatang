@@ -21,4 +21,4 @@ def write(in_text):
 write(f"\n{gr}[+]{re} Terima Kasih Telah Memakai Tools Saya...")
 print("\n_____________________________")
 print('\n')
-PRINT("You {re}Tube | {gr}Otak {nu}Kosong ")
+print("You {re}Tube | {gr}Otak {nu}Kosong ")
